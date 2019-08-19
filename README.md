@@ -1,3 +1,3 @@
 # git-live-demo
 
-This is a git live demo.
+This is my local pc.
